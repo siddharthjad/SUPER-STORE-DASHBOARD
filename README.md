@@ -45,12 +45,7 @@ The dashboard showcases:
 
 ## Screenshot
 
-![Dashboard Screenshot](Screenshot 2025-05-10 223428.png)
+![Dashboard Screenshot](https://github.com/siddharthjad/SUPER-STORE-DASHBOARD/blob/main/Screenshot%202025-05-10%20223428.png)
 
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
----
 
 *Note:* The data used in this project is fictional and intended for demonstration purposes only.
