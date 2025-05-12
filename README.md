@@ -48,4 +48,3 @@ The dashboard showcases:
 ![Dashboard Screenshot](https://github.com/siddharthjad/SUPER-STORE-DASHBOARD/blob/main/Screenshot%202025-05-10%20223428.png)
 
 
-*Note:* The data used in this project is fictional and intended for demonstration purposes only.
