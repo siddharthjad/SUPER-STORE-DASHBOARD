@@ -45,7 +45,7 @@ The dashboard showcases:
 
 ## Screenshot
 
-![Dashboard Screenshot](./path-to-your-dashboard-image.jpg)
+![Dashboard Screenshot](Screenshot 2025-05-10 223428.png)
 
 ## License
 
